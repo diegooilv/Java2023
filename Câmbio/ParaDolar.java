@@ -1,4 +1,4 @@
-package Intercambio;
+package Câmbio;
 
 public class ParaDolar {
     private final static float real = (float) 0.1969;
