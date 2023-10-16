@@ -1,4 +1,4 @@
-package Intercambio;
+package Câmbio;
 
 import java.util.Scanner;
 
