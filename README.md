@@ -13,7 +13,7 @@ Aqui estão alguns scripts mais simples, concebidos para consolidar os princípi
 ### [**Exemplos**](https://github.com/DiegoOliv07/Java2023/tree/main/Exemplos):
 Esta pasta abriga meus scripts de estudo, cuidadosamente elaborados para torná-los o mais explicativos possível. Além disso, encontrará scripts gerados com o auxílio da inteligência artificial para elucidar questões teóricas que, por vezes, necessitam de abordagens práticas.
 
-### **Intercâmbio**[](https://github.com/DiegoOliv07/Java2023/tree/main/Intercambio):
+### [**Câmbio**](https://github.com/DiegoOliv07/Java2023/tree/main/Câmbio):
 Meu primeiro projeto oficial, mantido em uma pasta especial para marcar essa significativa conquista.
 
 ### **Projetos**:
