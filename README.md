@@ -16,7 +16,7 @@ Esta pasta abriga meus scripts de estudo, cuidadosamente elaborados para torná-
 ### [**Câmbio**](https://github.com/DiegoOliv07/Java2023/tree/main/Câmbio):
 Meu primeiro projeto oficial, mantido em uma pasta especial para marcar essa significativa conquista.
 
-### **Projetos**:
+### [**Projeto**](https://github.com/DiegoOliv07/Java2023/tree/main/Projeto):
 Aqui serão armazenados meus futuros projetos deste ano (2023), cada um organizado em sua respectiva pasta.
 
 ## Conteúdo
