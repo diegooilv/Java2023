@@ -16,5 +16,4 @@ public class Main {
         double raioo = scanner.nextDouble();
         System.out.printf("A=%.4f%n", area(raioo));
     }
- 
 }

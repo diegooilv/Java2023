@@ -12,9 +12,6 @@ public class Main {
         }else{
             int lados = (int) 360/((180*(N-2)/N)/2);
             System.out.printf("%d%n", lados);
-
         }
- 
     }
- 
 }

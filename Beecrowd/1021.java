@@ -47,5 +47,4 @@ public class 1021 {
         System.out.println(moedas05 + " moeda(s) de R$ 0.05");
         System.out.println(moedas01 + " moeda(s) de R$ 0.01");
     }
-	
 }

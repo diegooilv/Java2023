@@ -14,7 +14,5 @@ public class Main {
         int va3 = scanner.nextInt();
         int va4 = scanner.nextInt();
         System.out.printf("DIFERENÇA = %d%n",dif(va1, va2, va3, va4));
- 
     }
- 
 }

@@ -14,5 +14,4 @@ public class Main {
         System.out.printf("NUMBER = %d%n", number);
         System.out.printf("SALARY = U$ %.2f%n", c_salario(salario, tempo));
     }
- 
 }

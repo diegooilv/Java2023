@@ -13,7 +13,5 @@ public class Main {
         double va2 = scanner.nextDouble();
         double va3 = scanner.nextDouble();
         System.out.printf("MEDIA = %.1f%n",media(va1, va2, va3));
- 
     }
- 
 }
