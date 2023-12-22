@@ -1,4 +1,4 @@
-package Archive;
+package Arquivados;
 public class Calculate {
     public static void main(String[] args){
         int x = Integer.parseInt(args[1]);

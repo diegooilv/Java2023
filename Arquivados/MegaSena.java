@@ -1,4 +1,4 @@
-package Archive;
+package Arquivados;
 
 import java.util.Random;
 
