@@ -5,7 +5,8 @@ Neste exemplo, a classe Carro possui um atributo marca privado, com métodos get
 
 Getters e setters desempenham um papel fundamental em OOP, permitindo o acesso controlado aos atributos de objetos.
 Eles são uma prática comum para garantir o encapsulamento e a integridade dos dados em classes e objetos.
-Permitem maior flexibilidade na validação e lógica associada aos atributos, tornando o código mais robusto e organizado. */
+Permitem maior flexibilidade na validação e lógica associada aos atributos, tornando o código mais robusto e organizado. 
+*/
 
 public class SetGet {
     // Atributo privado
